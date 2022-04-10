@@ -1,6 +1,6 @@
 {
   "name": "RavagerBot",
-  "description": "A bot that sails the high seas and brings treasures from the land unknown",
+  "description": "A telegram bot that downloads content in the form of torrent and direct download links and mirrors them 1:1 to google drive",
   "repository": "https://github.com/CoolFool/Ravager",
   "stack":"container",
   "env":{

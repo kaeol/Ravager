@@ -4,16 +4,16 @@
 </div>
 
 ## Contents
-- [Introduction](#Introduction)
-- [Features](#Features)
-- [Environment Variables](#Environment-Variables)
-- [Installation](#Installation)
-  - [Heroku](#Heroku)
-  - [Docker](#Docker)
-- [Bot Commands](#Telegram-Bot-Commands)
-- [Contributing](#Contributing)
-- [Authors](#Authors)
-- [License](#License)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Environment Variables](#environment-variables)
+- [Installation](#installation)
+  - [Heroku](#heroku)
+  - [Docker](#docker)
+- [Bot Commands](#telegram-bot-commands)
+- [Contributing](#contributing)
+- [Authors](#authors)
+- [License](#license)
 
 ## Introduction
 
